@@ -1,0 +1,22 @@
+{
+  "name": "yt-rs-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.13",
+    "nodemailer": "^6.6.1",
+    "nodemailer-express-handlebars": "^4.0.0",
+    "path": "^0.12.7"
+  }
+}
